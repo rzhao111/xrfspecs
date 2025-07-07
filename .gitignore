@@ -1,0 +1,15 @@
+.vscode/
+.idea/
+
+#docs/build/**
+.ipynb_*/
+notebooks/**
+
+**/__pycache__/*
+
+*.ipynb
+
+#**/build/*
+#**/installation/*
+
+*.egg-info/
